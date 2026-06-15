@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Valentin's github stats](https://gh-stats.valentindsj.com/api?username=ValentinDSJ&count_private=true&show_icons=true&hide=stars&include_all_commits=true)](https://www.linkedin.com/in/valentin-desaintjacob/)
+[![Valentin's github stats](https://gh-stats.com/api/ValentinDSJ?theme=dark&widgets=name%2Cgrade%2Clanguages%2Cachievements)](https://www.linkedin.com/in/valentin-desaintjacob/)
 
 <!--
 **ValentinDSJ/ValentinDSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
